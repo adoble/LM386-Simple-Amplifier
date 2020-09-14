@@ -2,7 +2,7 @@
 
 This is a simple LM386 based audio amplifier that I can use as a utility amplifier when dealing with audio signals. It is not really a "hifi" amplifier, but produces an acceptable sound on small loudspeakers.
 
-The main purpose of the project though, was to do a perfboard design using [KiCad](https://kicad-pcb.org/). I've usually done the layout design in the past either with paper and pencil or even on the fly directly on the board. The results have not  been good.
+The main purpose of the project though, was to do a [perfboard](https://en.wikipedia.org/wiki/Perfboard) design using [KiCad](https://kicad-pcb.org/). I've usually done the layout design in the past either with paper and pencil or even on the fly directly on the board. The results have not  been good.
 
 ## Circuit
 The circuit is based strongly on the design shown in [Circuit Basics](https://www.circuitbasics.com/build-a-great-sounding-audio-amplifier-with-bass-boost-from-the-lm386/).
